@@ -123,3 +123,10 @@ The app follows the MVVM architecture pattern:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+
+
+https://github.com/user-attachments/assets/7b20257b-dbed-468c-9242-1b849d6d9cc5
+
+
