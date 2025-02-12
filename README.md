@@ -127,6 +127,10 @@ The app follows the MVVM architecture pattern:
 
 
 
-https://github.com/user-attachments/assets/7b20257b-dbed-468c-9242-1b849d6d9cc5
+
+https://github.com/user-attachments/assets/7f8a52c2-a46e-4b64-b5f5-468d17ca2d80
+
+
+
 
 
